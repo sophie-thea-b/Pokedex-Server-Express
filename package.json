@@ -19,7 +19,7 @@
     "helmet": "^7.1.0",
     "mysql2": "^3.11.3",
     "pg": "8.5.1",
-    "typeorm": "0.3.18"
+    "typeorm": "0.3.22"
   },
   "devDependencies": {
     "ts-node": "10.7.0",
