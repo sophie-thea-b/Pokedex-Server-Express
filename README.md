@@ -48,7 +48,7 @@ GET /pokemon/:pokedexNumber | Simply returns a response with the data about a si
 ## Example Front-End
 I have [developed a Pokédex Android application that consumes this API.](https://github.com/sophie-thea-b/Pokedex-App-Android) It can be used as an example to develop other front-ends that consume this API.
 
-## Missing Features/Regrets
+## Missing Features
 There were some features that I would have wanted to fit into the API, but did not have the motivation for to do so.
 Here is a list of some features that could potentially be added in the future if I continue work on this project or in case someone would like to fork this repository and contribute.
 * Currently, it is not possible to get the alternate evolutions of a Pokémon. The functionality for retrieving all evolutions is relatively simple and only looks at Pokémon without branching evolutions.
